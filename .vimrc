@@ -9,3 +9,9 @@ colorscheme darkblue
 " Custom syntax for highlighting colons in YAML"
 highlight yamlKeyValueDelimiter ctermfg=Cyan guifg=Cyan
 highlight yamlComment ctermfg=Cyan guifg=Cyan
+
+"---- or -----:"
+syntax on
+set number
+set ts=2 sw=2 et
+colorscheme darkblue
